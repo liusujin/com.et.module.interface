@@ -1,0 +1,9 @@
+{
+    "name": "com.et.module.interface",
+    "displayName": "ET Module Interface",
+    "version": "1.0.0",
+    "unity": "2019.3",
+    "description": "ET Module Interface",
+    "keywords": ["et", "game-engine", "unity3d-framework"],
+    "dependencies": {}
+}
