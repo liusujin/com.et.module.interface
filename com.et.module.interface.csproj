@@ -62,6 +62,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\com.et.module.interface\Runtime\IActivate.cs" />
+    <Compile Include="Assets\com.et.module.interface\Runtime\IDeactivate.cs" />
     <Compile Include="Assets\com.et.module.interface\Runtime\IHide.cs" />
     <Compile Include="Assets\com.et.module.interface\Runtime\IInitialize.cs" />
     <Compile Include="Assets\com.et.module.interface\Runtime\ILoad.cs" />
